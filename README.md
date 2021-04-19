@@ -6,16 +6,20 @@ In this project, we will explore various CSV files containing employee informati
 - pgAdmin 4.30
 - PostgreSQL 11.11
 ## Results
-<img src = "Images/retiring_titles.png" width=200>
-
 - 90,398 employees are expected to retire in the upcoming years based on the retiring titles table we created
 
     <img src = "Images/rt_sum.png" width=200> 
     
-- The vast majority of the employees expected to retire are either senior engineers or senior staff
+- At first glance, it appears the vast majority of retiring staff are either senior staff or senior engineers
+
+    <img src = "Images/retiring_titles.png" width=200> 
+    
   - 33% of retiring employees are senior engineers
   - 31% of retiring employees are senior staff
 - If we consider senior engineers and engineers as an entire unit, then the amount of retiring engineers is closer to 50% 
+
+    <img src = "Images/SE_E.png" width=300> 
+
 - There are 1549 eligible employees for the mentorship-eligibility program based on the mentorship-eligible table we created
 
     <img src = "Images/eligible_amt.png" width=200> 
