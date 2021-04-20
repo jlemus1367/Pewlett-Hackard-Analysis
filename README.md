@@ -13,13 +13,13 @@ In this project, we will explore various CSV files containing employee informati
 </p>
 
 - At first glance, it appears the vast majority of retiring staff are either senior staff or senior engineers
-
+   - 33% of retiring employees are senior engineers
+   - 31% of retiring employees are senior staff
+   
 <p align="center">
     <img src = "Images/retiring_titles.png" width=200> 
 </p>
 
-  - 33% of retiring employees are senior engineers
-  - 31% of retiring employees are senior staff
 - If we consider senior engineers and engineers as an entire unit, then the amount of retiring engineers is closer to 50% 
 
 <p align="center">
